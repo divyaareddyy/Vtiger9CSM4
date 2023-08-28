@@ -1,7 +1,7 @@
 package BatchExecution;
 
 import org.testng.annotations.Test;
-
+//This is  an example for batchexecution tests
 public class Test1
 {
  @Test
