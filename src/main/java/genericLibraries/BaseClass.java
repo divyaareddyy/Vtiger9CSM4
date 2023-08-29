@@ -6,7 +6,7 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
-
+//This is an exaple for Baseclass
 import pompages.ContactsPage;
 import pompages.CreateNewContactPage;
 import pompages.CreateNewEventPage;
